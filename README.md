@@ -1,0 +1,21 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/yidUzlbqM0WI7yUdKE/giphy.gif" width="200"/>
+</div>
+<div id="badges" align="center">
+  <a href="your-IG-URL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-telegram-URL">
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:limbus727@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+<h1 align="center">
+  hello there!
+  <img src="https://media.giphy.com/media/T6nxuWttJ8RSGifSm1/giphy.gif" width="50px"/>
+</h1>
