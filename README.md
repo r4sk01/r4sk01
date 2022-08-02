@@ -5,10 +5,10 @@
   <a href="https://instagram.com/bachinin.the">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/andrei-bachinin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-telegram-URL">
+  <a href="https://t.me/r4sk01">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:limbus727@gmail.com">
