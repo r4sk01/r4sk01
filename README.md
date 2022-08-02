@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/yidUzlbqM0WI7yUdKE/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-IG-URL">
+  <a href="https://instagram.com/bachinin.the">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-linkedin-URL">
