@@ -22,7 +22,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/xkmQfH1TB0dLW/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
+
 ### :man_technologist: About Me :
 
 - :telescope: I’m a CS MS Student Interested in Cyber Security Field.
