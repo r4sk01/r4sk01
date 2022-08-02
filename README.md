@@ -19,3 +19,14 @@
   hello there!
   <img src="https://media.giphy.com/media/T6nxuWttJ8RSGifSm1/giphy.gif" width="50px"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/xkmQfH1TB0dLW/giphy.gif" width="600" height="300"/>
+</div>
+---
+### :man_technologist: About Me :
+
+- :telescope: I’m a CS MS Student Interested in Cyber Security Field.
+
+- :seedling: Also I am a Developer interesting in Building Modern Web Applications.
+
+- :zap: In my Free Time, I am Learning ML, Doing Some Workouts and Read Tech Articles.
