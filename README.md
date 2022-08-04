@@ -5,7 +5,7 @@
   <a href="https://instagram.com/bachinin.the">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="www.linkedin.com/in/andrei-bachinin">
+  <a href="https://linkedin.com/in/andrei-bachinin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/r4sk01">
