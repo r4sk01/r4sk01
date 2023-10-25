@@ -45,6 +45,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4sk01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Andrei's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=r4sk01&theme=xcode)](https://git.io/r4sk01)
+[![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&bg_color=FFFFFF&color=000000&line=00FF00&point=FF0000&area=true&hide_border=true)](https://github.com/r4sk01/github-readme-activity-graph)
+
 
 </div>
