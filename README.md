@@ -45,7 +45,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4sk01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=r4sk01&bg_color=FFFFFF&color=000000&line=00FF00&point=FF0000&area=true&hide_border=true)](https://github.com/r4sk01/github-readme-activity-graph)
+[![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=r4sk01&bg_color=FFFFFF&color=000000&line=00FF00&point=FF0000&area=true&hide_border=true)](https://github.com/r4sk01/activity-graph)
 
 
 </div>
