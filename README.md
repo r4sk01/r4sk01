@@ -7,7 +7,8 @@
 [![Telegram Badge](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://t.me/r4sk01)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limbus727@gmail.com)
 
-# hello there! ![Hello](https://media.giphy.com/media/T6nxuWttJ8RSGifSm1/giphy.gif)
+# hello there!
+![Hello](https://media.giphy.com/media/T6nxuWttJ8RSGifSm1/giphy.gif)
 
 ![About Me Image](https://media.giphy.com/media/xkmQfH1TB0dLW/giphy.gif)
 
