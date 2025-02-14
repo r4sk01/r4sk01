@@ -18,9 +18,9 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m a CS MS Student Interested in Cyber Security Field.
-- :seedling: Also I am a Developer interesting in Building Modern Web Applications.
-- :zap: In my Free Time, I am Learning ML, Doing Some Workouts and Read Tech Articles.
+- :telescope: I’m a CS PhD Student Working in Machine Learning/ Big Data Field.
+- :seedling: Also I am a Developer interested in Building Modern Web Applications.
+- :zap: In my Free Time, I am doing Some Workouts and Read Tech Articles.
 
 ---
 
